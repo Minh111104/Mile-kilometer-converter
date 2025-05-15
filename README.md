@@ -28,3 +28,6 @@ This project is a simple GUI-based **Miles to Kilometers Converter** created usi
 - **Language**: Python
 - **GUI Framework**: `tkinter`
 
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
