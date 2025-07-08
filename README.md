@@ -30,4 +30,4 @@ This project is a simple GUI-based **Miles to Kilometers Converter** created usi
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is created for educational purpose.
